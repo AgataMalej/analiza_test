@@ -19,6 +19,8 @@ head(nier)
   
  # Sprawdź liczbę respondentów w obu grupach. Samo porównanie procentów bez liczebności może być mylące.
 
+
+
 # WASZE ROZWIĄZANIE
 # filter(...), count(miejscowosc, kierunek), group_by(miejscowosc)
 
